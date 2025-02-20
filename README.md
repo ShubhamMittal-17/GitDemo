@@ -1,2 +1,3 @@
 # GitDemo
-Demo for Git
+Demo for Git <br>
+Author - Mittal
